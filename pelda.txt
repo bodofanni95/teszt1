@@ -1,0 +1,2 @@
+Ez egy kódsor, ami egyben példa.
+Visual studio példasor
